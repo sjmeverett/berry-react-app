@@ -1,0 +1,10 @@
+{
+  "name": "berry-react-app",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ]
+}
